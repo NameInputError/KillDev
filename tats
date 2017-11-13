@@ -1,0 +1,335 @@
+[33mcommit f54d1db5292e6a0c5aa2788be8b453e84e742359[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: T <tomryan229@gmail.com>
+Date:   Sun Nov 12 03:28:34 2017 -0600
+
+    join game anytime prototype
+
+[33mcommit a50bc1b91fe40db6bad4dc23349748efe0c20141[m
+Author: T <tomryan229@gmail.com>
+Date:   Fri Nov 10 22:53:12 2017 -0600
+
+    reset mp next_move on no_action
+
+[33mcommit 4bf996948f0abe319f1a11481557b6389b9279af[m
+Author: T <tomryan229@gmail.com>
+Date:   Fri Nov 10 19:41:41 2017 -0600
+
+    synch crash fixed!
+
+[33mcommit 9464265ded61f2234b3f3e06cde6c65a1174f2e9[m
+Author: T <tomryan229@gmail.com>
+Date:   Fri Nov 10 18:02:18 2017 -0600
+
+    forced commit
+
+[33mcommit da69d9fd30f01aa427791c21109d0fc416cc3ea9[m
+Author: T <tomryan229@gmail.com>
+Date:   Fri Nov 10 08:36:39 2017 -0600
+
+    commit with broken create_multi_player_prototype
+
+[33mcommit bac4d1d4294f307b9c27c174dcb6d07adca9da17[m
+Author: T <tomryan229@gmail.com>
+Date:   Fri Nov 10 06:03:55 2017 -0600
+
+    half round removal change finished
+
+[33mcommit bf890e88e714071f1bf80ca957e765aa41cacb81[m
+Author: T <tomryan229@gmail.com>
+Date:   Thu Nov 9 23:49:45 2017 -0600
+
+    fallback for sending nextnext at determine_no_action
+
+[33mcommit fa6cff720a595614e015d020f15964a0fe0c0fa8[m
+Author: T <tomryan229@gmail.com>
+Date:   Thu Nov 9 05:27:33 2017 -0600
+
+    fixed round desynch crash
+
+[33mcommit b656eb8e79571b718265f8d17918c7ea99091169[m
+Author: T <tomryan229@gmail.com>
+Date:   Thu Nov 9 03:39:37 2017 -0600
+
+    change_direction done
+
+[33mcommit 41b4dd3f24ee261906a40663e1538d7a145f640a[m
+Author: T <tomryan229@gmail.com>
+Date:   Wed Nov 8 17:43:56 2017 -0600
+
+    synch code functioning
+
+[33mcommit fa2c065d0120ca81660e3bb0a1829d57d9c84bb9[m
+Author: T <tomryan229@gmail.com>
+Date:   Mon Nov 6 02:42:24 2017 -0600
+
+    synchronized movement prototype working
+
+[33mcommit dd134cc236bdb051a3a090a693fb3b2d06738a3c[m
+Author: T <tomryan229@gmail.com>
+Date:   Mon Nov 6 00:38:02 2017 -0600
+
+    basically nothing
+
+[33mcommit db153695ac711ca62fda9fe6a3c9d9ad8f80a538[m
+Author: T <tomryan229@gmail.com>
+Date:   Sun Nov 5 02:24:45 2017 -0600
+
+    synch code 'done'  (AHAHAHAHAHAHAHAHAHAHAHAHAH NO)
+
+[33mcommit e65cff7e3403ef04a0670e7628a00ff783494613[m
+Author: T <tomryan229@gmail.com>
+Date:   Fri Nov 3 06:22:37 2017 -0500
+
+    furthering synch, mostly done with local_actions
+
+[33mcommit 9b3fa8117de5a9a8d1eadd5d95d07e6bae081e0e[m
+Author: T <tomryan229@gmail.com>
+Date:   Fri Nov 3 00:19:41 2017 -0500
+
+    partially done with synch code
+
+[33mcommit cd97d7a1205cc2dcf618fb01be3758bfea664c51[m
+Author: T <tomryan229@gmail.com>
+Date:   Tue Oct 31 16:24:23 2017 -0500
+
+    synch code begun, fallback here if necessary
+
+[33mcommit a4704d7cd77a54716234ff38fa9ab8be88fb7efb[m
+Author: T <tomryan229@gmail.com>
+Date:   Mon Oct 30 00:44:12 2017 -0500
+
+    small test
+
+[33mcommit 916eb76ffa1961bc518b4b5765444e820d36b784[m
+Author: T <tomryan229@gmail.com>
+Date:   Mon Oct 30 00:28:46 2017 -0500
+
+    beginning synch code, joiner sends no_action on complete
+
+[33mcommit ed5dc3b8ce2f819618ae7e0ecfec7d42f7b26083[m
+Author: T <tomryan229@gmail.com>
+Date:   Sun Oct 29 21:48:07 2017 -0500
+
+    remove messages, set wave_pos
+
+[33mcommit 61abe53c90a81d58d801896809356e4268c6482b[m
+Author: T <tomryan229@gmail.com>
+Date:   Sun Oct 29 20:38:49 2017 -0500
+
+    add timer
+
+[33mcommit 40b4aeb38576cfda4d79295e77c84fa0bcc211e0[m
+Author: T <tomryan229@gmail.com>
+Date:   Sun Oct 29 01:44:01 2017 -0500
+
+    dll change
+
+[33mcommit 3237c1255bfaa1fa0f3f46797b878531110b9fc1[m
+Author: T <tomryan229@gmail.com>
+Date:   Tue Oct 24 21:59:16 2017 -0500
+
+    transfer to game_MP_map prototype done
+
+[33mcommit 76212eb5571d0f77bfd5873ad787f35d5b0fdd8a[m
+Author: T <tomryan229@gmail.com>
+Date:   Sun Oct 22 22:31:20 2017 -0500
+
+    send_player done for now, will need to do delay_info eventually
+
+[33mcommit 6a4e6d05c33c3b9a7f505614e6a11fd7e8cd8cbd[m
+Author: T <tomryan229@gmail.com>
+Date:   Sun Oct 22 18:53:34 2017 -0500
+
+    send_player prototype
+
+[33mcommit ec3c18ff48668bc2e68e2d6e5ee3c56e993362c3[m
+Author: T <tomryan229@gmail.com>
+Date:   Sat Oct 21 20:21:02 2017 -0500
+
+    SUCCESSFUL MP SKILL CAST
+
+[33mcommit 60eebcab2d5b99addc1db27e176255ff78089977[m
+Author: T <tomryan229@gmail.com>
+Date:   Sat Oct 21 19:45:17 2017 -0500
+
+    fix incorrect skill send index
+
+[33mcommit e22b57633796a77fdd1b14785491022fc6aa0609[m
+Author: T <tomryan229@gmail.com>
+Date:   Sat Oct 21 19:28:40 2017 -0500
+
+    add skill cast handler
+
+[33mcommit 1f0589daeaecd47e8644de66385d9bf36150d857[m
+Author: T <tomryan229@gmail.com>
+Date:   Sat Oct 21 18:52:34 2017 -0500
+
+    multiplayer skills full prototype 'done'
+
+[33mcommit 978c078be5f76d7ce49640d8b8c9e70412be5430[m
+Author: T <tomryan229@gmail.com>
+Date:   Thu Oct 19 05:10:43 2017 -0500
+
+    recv_skill parsing everything correctly, need to construct skill next
+
+[33mcommit b864cd013e7e73679e1ecab97493e4df115539fc[m
+Author: T <tomryan229@gmail.com>
+Date:   Thu Oct 19 03:44:07 2017 -0500
+
+    recv_skill 'done'. testing
+
+[33mcommit 7d920e918a905c472d31c4c28386f5308c9c31b9[m
+Author: T <tomryan229@gmail.com>
+Date:   Wed Oct 18 01:54:58 2017 -0500
+
+    send skill cleaned up, checking recv on laptop
+
+[33mcommit 3165197fea9a55a6ecb8dc724929b289c53a17a2[m
+Author: T <tomryan229@gmail.com>
+Date:   Wed Oct 18 00:49:10 2017 -0500
+
+    send skill 'done', unwrap prototype done
+
+[33mcommit 5ebe99301ccd9f6e71410e69fd3ae08cd3a3d723[m
+Author: T <tomryan229@gmail.com>
+Date:   Tue Oct 17 05:46:31 2017 -0500
+
+    multiplayer_skill finding boosted subprops, and setting subprop indexes correctly
+
+[33mcommit 4b9f3e186599a84d81d6ffbbdbe98a8a4a11a761[m
+Author: T <tomryan229@gmail.com>
+Date:   Sun Oct 15 06:18:34 2017 -0500
+
+    using select(), large data packets working
+
+[33mcommit c6d9d7817edbfd6390b56d11d99ac1cd5f7d4eb9[m
+Author: T <tomryan229@gmail.com>
+Date:   Sat Oct 14 20:41:06 2017 -0500
+
+    recv loop working, float/int being sent correctly, havent tested if can accurately construct large mob packs
+
+[33mcommit 7e7aab855fed29082f6d5eb7ed0100f0dddb7dc4[m
+Author: T <tomryan229@gmail.com>
+Date:   Sat Oct 14 04:25:53 2017 -0500
+
+    fix set_elements BUFFER_NIL (incorrectly not skipping set caster info)
+
+[33mcommit ef0388fdce692c42694edc953437256e77ac11e6[m
+Author: T <tomryan229@gmail.com>
+Date:   Sat Oct 14 03:15:41 2017 -0500
+
+    statuc stack drifintg off by oe
+
+[33mcommit cbf1755c9fccbebd042a0da995d354327185c488[m
+Author: T <tomryan229@gmail.com>
+Date:   Thu Oct 12 06:43:52 2017 -0500
+
+    fixed dll crash
+
+[33mcommit 14403e91999a94c8dde919fd45db6acf6ec76012[m
+Author: T <tomryan229@gmail.com>
+Date:   Wed Oct 11 02:20:01 2017 -0500
+
+    mob receives correct data, havent tested reconstruction
+
+[33mcommit a2490b0868e6f36bacc4b7a37c2c1f6a305aa9a5[m
+Author: T <tomryan229@gmail.com>
+Date:   Wed Oct 11 01:03:26 2017 -0500
+
+    ?
+
+[33mcommit 6321d9f239b4a2c6f109c07b7e86385060ccde7e[m
+Author: T <tomryan229@gmail.com>
+Date:   Wed Oct 11 00:51:57 2017 -0500
+
+    remove dll message
+
+[33mcommit 650485faf4968eac6c08d85f08e9c0a3461f6e69[m
+Author: T <tomryan229@gmail.com>
+Date:   Tue Oct 10 23:27:40 2017 -0500
+
+    smalldll fix
+
+[33mcommit 7eba21c417d0418ba99e8277fcba396f6177c740[m
+Author: T <tomryan229@gmail.com>
+Date:   Tue Oct 10 23:17:51 2017 -0500
+
+    floating point memcpy fix (who knew you can't bit-shift floats)
+
+[33mcommit 341148d797c32c1269adca4ff59dd3480bb209c0[m
+Author: T <tomryan229@gmail.com>
+Date:   Tue Oct 10 22:46:27 2017 -0500
+
+    dll message
+
+[33mcommit 3c39a5eacf88ca99490eebc1cf0a0773c257c904[m
+Author: T <tomryan229@gmail.com>
+Date:   Tue Oct 10 22:38:50 2017 -0500
+
+    fixed empty arrays, investigating packet retrieval crash
+
+[33mcommit 3aa3a391a06d1ec2612e688f117ab28009afe627[m
+Author: T <tomryan229@gmail.com>
+Date:   Tue Oct 10 04:56:44 2017 -0500
+
+    packet sent correctly, just need to handle empty arrays being flattened out of existence
+
+[33mcommit 6316cf215be8ececc7218411f78af4080673f213[m
+Author: T <tomryan229@gmail.com>
+Date:   Tue Oct 10 02:00:43 2017 -0500
+
+    simple changes
+
+[33mcommit 0dfa039d740a6ac7d7e4a34b55877feb2729e8f2[m
+Author: T <tomryan229@gmail.com>
+Date:   Mon Oct 9 01:53:40 2017 -0500
+
+    dll messages
+
+[33mcommit 206d518f2b41ce2f3adb5ced63441dab7edad0bb[m
+Author: T <tomryan229@gmail.com>
+Date:   Mon Oct 9 01:48:14 2017 -0500
+
+    small send_data calls fix
+
+[33mcommit 3688de811dd9fc739b41574675f3375888a76692[m
+Author: T <tomryan229@gmail.com>
+Date:   Mon Oct 9 01:36:01 2017 -0500
+
+    multiplayer mob 'done', 1:30 on a sunday night
+
+[33mcommit b945d366cef3706df65fb4029f2c76737dfa4330[m
+Author: T <tomryan229@gmail.com>
+Date:   Sun Oct 8 17:35:11 2017 -0500
+
+    parse_chars redone
+
+[33mcommit 3b8c81b7b78a93cc33ed4889818d7ceae065ac2b[m
+Author: T <tomryan229@gmail.com>
+Date:   Sun Oct 8 06:36:33 2017 -0500
+
+    mostly done with intitial send/recieve mob_data, starting on get_chars
+
+[33mcommit 57c7352b6f899370b3bde8c618082b1416ff2b71[m
+Author: T <tomryan229@gmail.com>
+Date:   Sat Oct 7 20:02:16 2017 -0500
+
+    send_mob_data 'done
+
+[33mcommit efa46adb441483a784a1d04b36e4712cd6f9738c[m
+Author: T <tomryan229@gmail.com>
+Date:   Sat Oct 7 14:39:10 2017 -0500
+
+    freeze before rewriting to interweave messages_i and _f
+
+[33mcommit 26c5c89dfd762337ac7a22a3f71e56deb6c010b8[m
+Author: T <tomryan229@gmail.com>
+Date:   Fri Oct 6 01:04:41 2017 -0500
+
+    multiplayer_event handles all data types, needs work
+
+[33mcommit c633ca45dd0da385f9c92c52f4600c1809986feb[m
+Author: T <tomryan229@gmail.com>
+Date:   Wed Oct 4 02:01:35 2017 -0500
+
+    Multiplayer_Mob_Data started, basic int/float props done
