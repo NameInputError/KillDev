@@ -1,5 +1,7 @@
-id:0
-               name:
-pass:
-               party:
-pass:
+id:4
+name:ejjiihijj
+pass:Main
+party:jjinooKK
+pass:Aihmnno
+party_id:4
+kingdom_id:4
