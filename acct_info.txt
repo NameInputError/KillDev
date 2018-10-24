@@ -1,7 +1,10 @@
-id:29
-name:edcbaEEabcde
+id:36
+name:AAAeeejjooott
 pass:Main
-party:ejoootttyyy
-pass:jihgfghijeeee
-party_id:29
-kingdom_id:29
+party:eemmr
+kingdom:MMkks
+party_id:36
+kingdom_id:36
+char_1:106
+char_2:107
+char_3:108
