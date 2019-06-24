@@ -1,0 +1,10 @@
+-FROM CODE call request_memory_map and try to output parsed actions
+
+-turn game_memory_map into a single player, no @next_action, no MP variables in the mix.
+
+-handle the action-reading code. maybe instead of checking each memory for
+ a current action, handle their update_move by parsing the memory frame hash and just move everyone with an for the round, like statuses. this would not require, but incentivize a different container for memories (and $them), since can bypass all input checks and just respond to them event-wise. Maybe later. Can also just separate different processes into different @monsters containers, like inputtable vs memory vs npc vs non-physically interactive vs temp-dead or frozen or w/e (could be moved to no_update temporarily). so @monsters still exists, but could keep an array of ids for update_move, etc and replace @monsters.each{update_move} with @movable_monsters.each{update_move} where appropriate
+
+-turn @recv_map.players into mem_players, and mobs into mem_mobs. test out by putting memories in $them, @monsters, and @allies
+
+-generationalize memory fighters, for now at least. 
